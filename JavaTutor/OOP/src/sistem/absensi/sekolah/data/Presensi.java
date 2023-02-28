@@ -15,8 +15,4 @@ public enum Presensi {
     public String getDescription(){
         return description;
     }
-
-
-
-
 }
